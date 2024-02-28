@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "apiProductTest",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-nodejs",
+        "version": "2.0.0"
+      }
+    ],
+    "clientFramework": "react",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1709092110754,
+    "devServerPort": 9060,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.1.0",
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "prodDatabaseType": "postgresql",
+    "serverPort": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
